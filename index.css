@@ -1,0 +1,31 @@
+.container-fluid {
+    width: auto;
+    height: 100vh;
+    background-color: rgb(186, 218, 223);
+    
+} 
+
+.text {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    padding: 10px;
+}
+
+.col p {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+}
+.col {
+    padding-top: 200px;
+}
+
+.btn {
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 45px;
+    margin-top: 20px;
+}
